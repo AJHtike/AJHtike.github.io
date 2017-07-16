@@ -63,7 +63,7 @@ hr.star-primary:after {
   background-color: white;
   color: #2C3E50;
 }
-
+/*added CSS for custom font awesome icon*/
 hr.code-light,hr.code-primary
 {padding:0;
   border:none;
@@ -94,7 +94,7 @@ hr.code-primary:after{
           background-color:#fff;
           color:#2C3E50;
         }
-
+/*End*/
 .img-centered {
   margin: 0 auto;
 }
@@ -216,6 +216,13 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+
+section.timeline-box
+{
+  background: #ccc;
+  color: #eee;
+}
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
