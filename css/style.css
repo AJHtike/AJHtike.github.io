@@ -1,3 +1,6 @@
+/*Credit to CodyHouse Vertical Timeline*/
+/*Reference : https://codyhouse.co/gem/vertical-timeline/*/
+
 /* --------------------------------
 
 Primary style
@@ -96,7 +99,7 @@ header h1 {
   left: 18px;
   height: 100%;
   width: 4px;
-  background: #d7e4ed;
+  background: rgba(44, 62, 80, 0.17);
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
@@ -248,7 +251,8 @@ header h1 {
   background: white;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 0 3px 0 #d7e4ed;
+  /*box-shadow: 0 3px 0 #d7e4ed;*/
+  box-shadow: 5px 5px 10px #2c3e50;
 }
 .cd-timeline-content:after {
   content: "";
