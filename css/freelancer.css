@@ -64,6 +64,7 @@ hr.star-primary:after {
   color: #2C3E50;
 }
 /*added CSS for custom font awesome icon*/
+/*For developer fontawesome*/
 hr.code-light,hr.code-primary
 {padding:0;
   border:none;
@@ -94,7 +95,40 @@ hr.code-primary:after{
           background-color:#fff;
           color:#2C3E50;
         }
+        /*For history fontawesome*/
+        hr.history-light,hr.history-primary
+        {padding:0;
+          border:none;
+          border-top:solid 5px;
+          text-align:center;
+          max-width:250px;
+          margin:25px auto 30px;
+          }
+        hr.history-light:after,
+        hr.history-primary:after{
+          content:"\f1da";
+          font-family: FontAwesome;
+          display:inline-block;
+          position:relative;
+          top:-.8em;
+          font-size:2em;
+          padding:0 .25em;
+          }
+          hr.history-light
+          {border-color:#fff;
+            }
+            hr.history-light:after{
+              background-color:#18BC9C;
+              color:#fff;}
+              hr.history-primary{
+                border-color:#2C3E50;}
+                hr.history-primary:after{
+                  background-color:#fff;
+                  color:#2C3E50;
+                }
 /*End*/
+
+
 .img-centered {
   margin: 0 auto;
 }
@@ -216,12 +250,13 @@ section.success {
   background: #18BC9C;
   color: white;
 }
-
+/*Added custom CSS for timeline-box*/
 section.timeline-box
 {
   background: #c1c1c1;
   color: #2c3e50;
 }
+/*end*/
 
 @media (max-width: 767px) {
   section {
