@@ -128,14 +128,13 @@ hr.code-primary:after{
                 }
 /*End*/
 
-
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
 /*  background: #18BC9C;*/
-background: url("../img/bg-1.png") no-repeat center center fixed !important;
+background: url("../img/bg-2.jpg") no-repeat center center fixed !important;
 color: white;
 -webkit-background-size:cover;
 -moz-background-size: cover;
