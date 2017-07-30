@@ -135,7 +135,7 @@ hr.code-primary:after{
 header {
   text-align: center;
 /*  background: #18BC9C;*/
-background: url("../img/bghand-2.jpg") no-repeat center center fixed !important;
+background: url("../img/bg-2.jpg") no-repeat center center fixed !important;
 
 -webkit-background-size: 100%;
 -moz-background-size: 100%;
