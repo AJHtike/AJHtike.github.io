@@ -87,7 +87,8 @@ hr.code-primary:after{
   {border-color:#fff;
     }
     hr.code-light:after{
-      background-color:#18BC9C;
+      /*background-color:#18BC9C;*/
+      background-color:rgba(188, 184, 188, 0)!important;
       color:#fff;}
       hr.code-primary{
         border-color:#2C3E50;}
