@@ -140,7 +140,7 @@ background: url("../img/bg-2.jpg") no-repeat center center fixed !important;
 -moz-background-size: 100%;
 -o-background-size: 100%;
 background-size: 100%;
-color: white !important;
+color: #ffff !important;
 }
 header .container {
   padding-top: 100px;
