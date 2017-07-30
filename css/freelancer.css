@@ -135,9 +135,12 @@ hr.code-primary:after{
 header {
   text-align: center;
 /*  background: #18BC9C;*/
-background-image: url("../img/bg-1.png")!important;
-
-  color: white;
+background-image: url("../img/bg-1.png") no-repeat center center fixed !important;
+color: white;
+-webkit-background-size:cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 header .container {
   padding-top: 100px;
