@@ -178,6 +178,10 @@ header .intro-text .skills {
   background-size: 100%;
   color: white;
   }
+  header .container {
+    padding-top: 350px;
+    padding-bottom: 50px;
+  }
 }
 
 @media (min-width: 768px) {
