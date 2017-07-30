@@ -159,14 +159,10 @@ header .intro-text .name {
   font-size: 2em;
 }
 
-.name {
-  background-color: #2C3E50;
-  opacity: .50;
-}
 header .intro-text .skills {
   font-size: 1.25em;
   background-color: #2C3E50;
-  opacity: .50;
+  opacity: .40;
   font-weight: 900 !important;
 }
 
