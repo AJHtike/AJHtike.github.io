@@ -162,7 +162,7 @@ header .intro-text .skills {
   font-weight: 300;
 }
 
-@media (max-width: 3440px)
+@media (min-width: 3440px)
 {
   header img{
     display:block ;
