@@ -190,7 +190,7 @@ header .intro-text .skills {
   header {
     text-align: center;
   /*  background: #18BC9C;*/
-  /* background: url("../img/bg-large.jpg") no-repeat center center fixed !important;*/
+   background: url("../img/bg-large.jpg") no-repeat center center fixed !important;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
