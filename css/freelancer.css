@@ -175,14 +175,14 @@ header .intro-text .skills {
 {
   header{
       background-color: #fff;
-      background-size: 100% cover;
+      background-size: 100% auto;
   }
   header .intro-text .name {
     color : #000 !important;
   }
 }
 
-@media (max-width: 3440px)
+@media (min-width: 3440px)
 {
   header img{
     display:block ;
@@ -195,7 +195,7 @@ header .intro-text .skills {
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
-  background-size: 100% cover;
+  background-size: 100% auto;
   color: #fff !important;
   }
   header .container {
