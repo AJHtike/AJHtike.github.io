@@ -175,9 +175,10 @@ header .intro-text .skills {
 {
   header{
     background-size: 100% auto !important;
-    color: #000 !important;
   }
-
+  header .intro-text .name {
+    color : #000 !important;
+  }
 
 }
 
