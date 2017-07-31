@@ -171,10 +171,10 @@ header .intro-text .skills {
   opacity: .80;
   font-weight: 900 !important;
 }
-@media only screen and (min-width: 480px)
+@media (min-width: 480px)
 {
-  header img{
-    display: none;
+  header{
+    background-size: 50% auto;
   }
 }
 
