@@ -175,6 +175,7 @@ header .intro-text .skills {
 {
   header{
       background-color: #fff;
+      background-size: 100% auto;
   }
   header .intro-text .name {
     color : #000 !important;
@@ -194,7 +195,7 @@ header .intro-text .skills {
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
-  background-size: 100%;
+  background-size: 100% cover;
   color: #fff !important;
   }
   header .container {
