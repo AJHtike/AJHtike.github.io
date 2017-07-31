@@ -195,7 +195,7 @@ header .intro-text .skills {
   -webkit-background-size: 150%;
   -moz-background-size: 150%;
   -o-background-size: 150%;
-  background-size: 150% auto;
+  background-size: 150% auto !important;
   color: #fff !important;
   }
   header .container {
