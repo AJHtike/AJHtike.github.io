@@ -175,7 +175,10 @@ header .intro-text .skills {
 {
   header{
     background-size: 100% auto !important;
+    color: #000 !important;
   }
+
+
 }
 
 @media (min-width: 3440px)
