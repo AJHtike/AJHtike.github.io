@@ -192,10 +192,10 @@ header .intro-text .skills {
     text-align: center;
   /*  background: #18BC9C;*/
    background: url("../img/bg-large.jpg") no-repeat center center fixed !important;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100% auto;
+  -webkit-background-size: 150%;
+  -moz-background-size: 150%;
+  -o-background-size: 150%;
+  background-size: 150% auto;
   color: #fff !important;
   }
   header .container {
