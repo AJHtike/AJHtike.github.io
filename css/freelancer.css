@@ -174,7 +174,7 @@ header .intro-text .skills {
 @media (min-width: 480px)
 {
   header{
-   display: none !important;
+      background-color: #fff;
   }
   header .intro-text .name {
     color : #000 !important;
@@ -195,7 +195,7 @@ header .intro-text .skills {
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
-  color: white;
+  color: #fff !important;
   }
   header .container {
     padding-top: 350px;
