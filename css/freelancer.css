@@ -82,13 +82,16 @@ hr.code-primary:after{
   top:-.8em;
   font-size:2em;
   padding:0 .25em;
+  border-radius: 100%;
   }
   hr.code-light
   {border-color:#fff;
     }
     hr.code-light:after{
       /*background-color:#18BC9C;*/
-      background-color: rgb(175, 139, 103)!important;
+      /*background-color: rgb(175, 139, 103)!important;*/
+      background-color: #2C3E50;
+      opacity: .80;
       color:#fff;}
       hr.code-primary{
         border-color:#2C3E50;}
@@ -135,7 +138,7 @@ hr.code-primary:after{
 header {
   text-align: center;
 /*  background: #18BC9C;*/
-background: url("../img/bg-2.jpg") no-repeat center center fixed !important;
+background: url("../img/bghand-2.jpg") no-repeat center center fixed !important;
 
 -webkit-background-size: 100%;
 -moz-background-size: 100%;
