@@ -171,7 +171,7 @@ header .intro-text .skills {
   opacity: .80;
   font-weight: 900 !important;
 }
-@media (min-width: 480px)
+@media (max-width: 480px)
 {
   header{
       background-color: #fff;
