@@ -641,4 +641,10 @@ div#maincontent {
 .table>tbody>tr>td
 {
   border-top: none!important;
+  font-size: 17px;
+}
+
+#boldbio
+{
+  font-weight: 500;
 }
