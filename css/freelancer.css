@@ -644,7 +644,16 @@ div#maincontent {
   font-size: 17px;
 }
 
+/*added css*/
 #boldbio
 {
   font-weight: 900;
+}
+
+.roundedbox
+{
+  width:200px;
+  height: 200px;
+  border-radius: 100%;
+
 }
