@@ -171,6 +171,7 @@ header .intro-text .skills {
   opacity: .80;
   font-weight: 900 !important;
 }
+/*For Mobile friendly*/
 @media (max-width: 480px)
 {
   header{
@@ -181,7 +182,7 @@ header .intro-text .skills {
     color : #000 !important;
   }
 }
-
+/*For the largest monitor */
 @media (min-width: 3440px)
 {
   header img{
