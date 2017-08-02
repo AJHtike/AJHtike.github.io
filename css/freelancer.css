@@ -637,3 +637,8 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+
+.table>tbody>tr>td
+{
+  border-top: none!important;
+}
