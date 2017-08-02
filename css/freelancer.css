@@ -649,11 +649,8 @@ div#maincontent {
 {
   font-weight: 900;
 }
-
 .roundedbox
 {
-  width:200px;
-  height: 200px;
+  background-color: #fff;
   border-radius: 100%;
-
 }
