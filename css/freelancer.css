@@ -649,8 +649,9 @@ div#maincontent {
 {
   font-weight: 900;
 }
-.roundedbox
+.fa-coffee
 {
-  background-color: #ccc;
-  border-radius: 100%;
+  position: relative;
+  top: 10px;
+  left: 10px;
 }
