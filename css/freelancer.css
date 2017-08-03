@@ -644,7 +644,7 @@ div#maincontent {
   font-size: 17px;
 }
 
-/*added css*/
+/*added css for Fontawesome in ABout me Section*/
 #boldbio
 {
   font-weight: 900;
@@ -654,4 +654,5 @@ div#maincontent {
   position: relative;
   top: 10px;
   left: 10px;
+  font-size: 40px !important;
 }
