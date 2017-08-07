@@ -181,6 +181,18 @@ header .intro-text .skills {
   header .intro-text .name {
     color : #000 !important;
   }
+  .cd-timeline-content h2 {
+    font-size: 20px;
+    font-size: 1.25rem;
+  }
+  .cd-timeline-content p {
+    font-size: 16px;
+    font-size: 2rem;
+  }
+  .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
+    font-size: 14px;
+    font-size: 0.875rem;
+  }
 }
 /*For the largest monitor */
 @media (min-width: 3440px)
