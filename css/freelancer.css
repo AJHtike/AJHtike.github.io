@@ -442,6 +442,8 @@ section.skills-box
 }
 section.skills-box p {
   font-size: 16px;
+  margin-top: 15px;
+margin-bottom: 15px;
 }
 /*end*/
 
