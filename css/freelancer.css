@@ -440,6 +440,9 @@ section.skills-box
   color: #fff;
   opacity: .80;
 }
+section.skills-box p {
+  font-size: 16px;
+}
 /*end*/
 
 @media (max-width: 767px) {
