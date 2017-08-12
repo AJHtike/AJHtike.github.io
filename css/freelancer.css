@@ -247,13 +247,13 @@ hr.code-primary:after{
                         {border-color:#fff;
                           }
                           hr.skills-light:after{
-                            background-color:#18BC9C;
+                            background-color:#2C3E50;
                             color:#fff;}
                             hr.skills-primary{
                               border-color:#2C3E50;}
                               hr.skills-primary:after{
-                                background-color:#c1c1c1;
-                                color:#2C3E50;
+                                background-color: #2c3e50;
+                                color: #c1c1c1;
                               }
 /*End*/
 
