@@ -129,7 +129,131 @@ hr.code-primary:after{
                 hr.history-primary:after{
                   background-color:#c1c1c1;
                   color:#2C3E50;
+          }
+          /*For about user fontawesome*/
+          hr.about-light,hr.about-primary
+          {padding:0;
+            border:none;
+            border-top:solid 5px;
+            text-align:center;
+            max-width:250px;
+            margin:25px auto 30px;
+            }
+          hr.about-light:after,
+          hr.about-primary:after{
+            content:"\f2c0";
+            font-family: FontAwesome;
+            display:inline-block;
+            position:relative;
+            top:-.8em;
+            font-size:2em;
+            padding:0 .25em;
+            }
+            hr.about-light
+            {border-color:#fff;
+              }
+              hr.about-light:after{
+                background-color:#18BC9C;
+                color:#fff;}
+                hr.about-primary{
+                  border-color:#2C3E50;}
+                  hr.about-primary:after{
+                    background-color:#c1c1c1;
+                    color:#2C3E50;
+            }
+            /*For portfolio briefcase fontawesome*/
+            hr.case-light,hr.case-primary
+            {padding:0;
+              border:none;
+              border-top:solid 5px;
+              text-align:center;
+              max-width:250px;
+              margin:25px auto 30px;
+              }
+            hr.case-light:after,
+            hr.case-primary:after{
+              content:"\f0b1";
+              font-family: FontAwesome;
+              display:inline-block;
+              position:relative;
+              top:-.8em;
+              font-size:2em;
+              padding:0 .25em;
+              }
+              hr.case-light
+              {border-color:#fff;
                 }
+                hr.case-light:after{
+                  background-color:#18BC9C;
+                  color:#fff;}
+                  hr.case-primary{
+                    border-color:#2C3E50;}
+                    hr.case-primary:after{
+                      background-color:#c1c1c1;
+                      color:#2C3E50;
+              }
+              /*For contact section telegram fontawesome*/
+              hr.telegram-light,hr.telegram-primary
+              {padding:0;
+                border:none;
+                border-top:solid 5px;
+                text-align:center;
+                max-width:250px;
+                margin:25px auto 30px;
+                }
+              hr.telegram-light:after,
+              hr.telegram-primary:after{
+                content:"\f2c6";
+                font-family: FontAwesome;
+                display:inline-block;
+                position:relative;
+                top:-.8em;
+                font-size:2em;
+                padding:0 .25em;
+                }
+                hr.telegram-light
+                {border-color:#fff;
+                  }
+                  hr.telegram-light:after{
+                    background-color:#18BC9C;
+                    color:#fff;}
+                    hr.telegram-primary{
+                      border-color:#2C3E50;}
+                      hr.telegram-primary:after{
+                        background-color:#c1c1c1;
+                        color:#2C3E50;
+                      }
+                      /*For skills section skills fontawesome*/
+                      hr.skills-light,hr.skills-primary
+                      {padding:0;
+                        border:none;
+                        border-top:solid 5px;
+                        text-align:center;
+                        max-width:250px;
+                        margin:25px auto 30px;
+                        }
+                      hr.skills-light:after,
+                      hr.skills-primary:after{
+                        content:"\f085";
+                        font-family: FontAwesome;
+                        display:inline-block;
+                        position:relative;
+                        top:-.8em;
+                        font-size:2em;
+                        padding:0 .25em;
+                        }
+                        hr.skills-light
+                        {border-color:#fff;
+                          }
+                          hr.skills-light:after{
+                            background-color:#18BC9C;
+                            color:#fff;}
+                            hr.skills-primary{
+                              border-color:#2C3E50;}
+                              hr.skills-primary:after{
+                                background-color:#c1c1c1;
+                                color:#2C3E50;
+                              }
 /*End*/
 
 .img-centered {
@@ -307,6 +431,11 @@ section.success {
 section.timeline-box
 {
   background: #c1c1c1;
+  color: #2c3e50;
+}
+section.skills-box
+{
+  background-color: #2C3E50;
   color: #2c3e50;
 }
 /*end*/
