@@ -154,7 +154,8 @@ hr.code-primary:after{
               }
               hr.about-light:after{
                 background-color:#18BC9C;
-                color:#fff;}
+                color:#ffffff;
+              }
                 hr.about-primary{
                   border-color:#2C3E50;}
                   hr.about-primary:after{
@@ -189,7 +190,7 @@ hr.code-primary:after{
                   hr.case-primary{
                     border-color:#2C3E50;}
                     hr.case-primary:after{
-                      background-color:#c1c1c1;
+                      background-color:#ffffff;
                       color:#2C3E50;
               }
               /*For contact section telegram fontawesome*/
@@ -436,7 +437,7 @@ section.timeline-box
 section.skills-box
 {
   background-color: #2C3E50;
-  color: #2c3e50;
+  color: #fff;
 }
 /*end*/
 
