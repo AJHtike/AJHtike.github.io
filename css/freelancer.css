@@ -892,7 +892,7 @@ div#maincontent {
     border-color: #e05b49;
 }
 .progress.red .progress-left .progress-bar{
-    animation: loading-2 1.5s linear forwards 1.8s;
+    animation: loading-4 1.5s linear forwards 1.8s;
 }
 .progress.cyan .progress-bar{
     border-color: #1fa4b6;
