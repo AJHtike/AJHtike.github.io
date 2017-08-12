@@ -864,6 +864,10 @@ div#maincontent {
     top: 5%;
     left: 5%;
 }
+.progress .progress-label
+{
+  font-size: 16px;
+}
 .progress.blue .progress-bar{
     border-color: #049dff;
 }
