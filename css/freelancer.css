@@ -141,7 +141,7 @@ hr.code-primary:after{
             }
           hr.about-light:after,
           hr.about-primary:after{
-            content:"\f2c0";
+            content:"\f007";
             font-family: FontAwesome;
             display:inline-block;
             position:relative;
@@ -204,7 +204,7 @@ hr.code-primary:after{
                 }
               hr.telegram-light:after,
               hr.telegram-primary:after{
-                content:"\f2c6";
+                content:"\f1d8";
                 font-family: FontAwesome;
                 display:inline-block;
                 position:relative;
