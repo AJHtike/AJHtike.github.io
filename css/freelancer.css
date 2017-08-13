@@ -310,6 +310,12 @@ header .intro-text .skills {
     font-size: 20px;
     font-size: 1.825rem;
   }
+  .btn-social {
+    border: 2px solid #2C3E50;
+  }
+  .btn-outline{
+    color: #2C3E50;
+  }
 }
 /*For the largest monitor */
 @media (min-width: 3440px)
