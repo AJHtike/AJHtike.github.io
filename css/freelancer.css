@@ -804,7 +804,7 @@ div#maincontent {
 
 .modal-body p
 {
-  text-align: none !important;
+  text-align:left !important;
 }
 /*added css for skills section | circular progress bar*/
 /*Reference : https://bootsnipp.com/snippets/nrQWa by Alimul Al Razy*/
