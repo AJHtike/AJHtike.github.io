@@ -801,6 +801,11 @@ div#maincontent {
   top: 10px;
   font-size: 50px !important;
 }
+
+.modal-body p
+{
+  text-align: none !important;
+}
 /*added css for skills section | circular progress bar*/
 /*Reference : https://bootsnipp.com/snippets/nrQWa by Alimul Al Razy*/
 .progress{
